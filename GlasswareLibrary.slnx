@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GlasswareLibrary.Api/GlasswareLibrary.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GlasswareLibrary.Api.Tests/GlasswareLibrary.Api.Tests.csproj" />
+  </Folder>
+</Solution>
