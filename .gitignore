@@ -147,3 +147,18 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+TestResults/
+
+# Angular / app build output
+.angular/
+src/GlasswareLibrary.Api/wwwroot/
+
+# Claude Code
+.claude/
